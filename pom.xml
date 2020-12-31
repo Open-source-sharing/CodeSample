@@ -9,6 +9,8 @@
     <version>1.0</version>
     <modules>
         <module>codesample-redlock</module>
+        <module>codesample-bloom</module>
+        <module>codesample-base</module>
     </modules>
 
 
